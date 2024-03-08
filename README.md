@@ -5,8 +5,7 @@
 We are participating in GSoC 2024 🎉 [More Details ...](https://summerofcode.withgoogle.com/programs/2024/organizations/api-dash)
 
 ### Please support this initiative by giving this project a Star ⭐️
-
-API Dash is a beautiful open-source cross-platform API Client that can help you easily create & customize your API requests, visually inspect responses ([full list of supported mime-types](https://github.com/foss42/apidash?tab=readme-ov-file#mime-types-supported-by-api-dash-response-previewer)) and generate API integration code ([full list](https://github.com/foss42/apidash?tab=readme-ov-file#code-generators)) on the go.
+Dash is a beautiful open-source cross-platform API Client that can help you easily create & customize your API requests, visually inspect responses ([full list of supported mime-types](https://github.com/foss42/apidash?tab=readme-ov-file#mime-types-supported-by-api-dash-response-previewer)) and generate API integration code ([full list](https://github.com/foss42/apidash?tab=readme-ov-file#code-generators)) on the go.
 
 ![Image](https://github.com/foss42/apidash/assets/615622/984b3c95-a6a1-48a5-a6ba-5a1e95802b5d)
 
@@ -75,7 +74,6 @@ API Dash can be downloaded from the links below:
 
 - Create different types of HTTP requests (`GET`, `HEAD`, `POST`, `PATCH`, `PUT` and `DELETE`).
 - Easily manipulate and play around with request inputs like `headers`, `query parameters` and `body`.
-- Full support to send text content with 🥳 Unicode/Emoji and preview any API response containing Unicode/Emoji.
 
 **💼 Organize Requests in Collections & Folders**
 

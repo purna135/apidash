@@ -63,7 +63,7 @@ class _AppState extends ConsumerState<App> with WindowListener {
           builder: (_) => AlertDialog(
             title: const Text('Save Changes'),
             content:
-                const Text('Want to save changes before you close API Dash?'),
+                const Text('Want to save'),
             actions: [
               OutlinedButton(
                 child: const Text('No'),
